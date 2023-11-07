@@ -91,7 +91,7 @@ body {
 .banner-image {
     width: 386px;
     height: 386px;
-    background-image: url('/hestia_logo/hestia_new_transparent.png');
+    background-image: url('./hestia.png');
     background-position: 50% 50%;
     background-size: contain;
     margin: 31px auto 0;
